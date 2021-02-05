@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/muratdemirci/muratdemirci/master/wave.gif" width="30px">
 
-My name is Murat Demirci and I'm a software developer/engineer. I'm from Turkey, living in Istanvul and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Murat Demirci and I'm a software developer/engineer. I'm from Turkey, living in Istanbul. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
@@ -43,7 +43,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/muratdemirci/muratdemirci/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
