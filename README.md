@@ -50,7 +50,7 @@ Apart from coding, I also maintain a blog, you can find my articles on my websit
 
 [1]: https://twitter.com/deusmur
 [2]: https://github.com/muratdemirci
-[3]: https://www.linkedin.com/in/recuirsiveself/
+[3]: https://www.linkedin.com/in/recursiveself/
 
 
 <!-- Resources -->
