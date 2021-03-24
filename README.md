@@ -1,10 +1,26 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/muratdemirci/muratdemirci/master/wave.gif" width="30px">
 
-My name is Murat Demirci and I'm a software developer/engineer. I'm from Turkey, living in Istanbul. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Murat Demirci and I'm a software developer/engineer. I'm from Turkey, living in Istanbul. Always chaising the ghosts and reinventing the wheel ⚙️
 
-## &#x270d; Blog & Writing
+## 🧙 Sorry Dorothy but we're not in Kansas anymore.
 
-Apart from coding, I also maintain a blog, you can find my articles on my website at [dreadpiratemurat.com](https://dreadpiratemurat.com/) as well as on [Medium](https://medium.com/@deusmur) and [DEV.to](https://dev.to/muratdemirci).
+<p align="middle">
+  <a href="https://www.linkedin.com/in/recursiveself" title="Follow me on LinkedIn 👔">
+    <img src="https://img.shields.io/badge/-Murat%20Demirci-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/recursiveself" />
+  </a>
+  <a href="https://twitter.com/deusmur" title="Follow me on Twitter 🐦">
+    <img src="https://img.shields.io/badge/deusmur-6633cc?style=flat-square&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/deusmur" title="Follow me on Instagram 📸">
+    <img src="https://img.shields.io/badge/deusmur-6633cc?style=flat-square&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@deusmur" title="Follow me on Medium 📝">
+    <img src="https://img.shields.io/badge/deusmur-6633cc?style=flat-square&logo=Medium&logoColor=white" />
+  </a>
+  <a href="https://dev.to/muratdemirci" title="Follow me on Dev.to 📀">
+    <img src="https://img.shields.io/badge/murat%20demirci-6633cc?style=flat-square&logo=Dev.to&logoColor=white" />
+  </a>
+</p>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
