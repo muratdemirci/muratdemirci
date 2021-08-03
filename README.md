@@ -77,3 +77,9 @@ My name is Murat Demirci and I'm a software developer/engineer. I'm from Turkey,
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
+## :car: Know What It is To be An Engineer.
+> It is to have a dream without being conscious.You are dreaming, lest the dream break.
+> It is to be trapped in a terrible tower of pure science, it is to live in a mean basic prison cell, and regard yourself as sovereign of limitless space.
+> It is to turn failure into success, mice into men, rags into riches, stone into buildings, steel into bridges.
+> For each engineer has a magician in his soul.
