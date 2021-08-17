@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/muratdemirci/muratdemirci/master/wave.gif" width="30px">
 
-My name is Murat Demirci and I'm a software developer/engineer. I'm from Turkey, living in Istanbul. Always chaising the ghosts and reinventing the wheel ⚙️
+My name is Murat Demirci and I'm a software developer/engineer. I'm from Turkey, living in Istanbul. Always chasing the ghosts and reinventing the wheel ⚙️
 
 ## 🧙 Sorry Dorothy but we're not in Kansas anymore.
 
