@@ -39,15 +39,6 @@ My name is Murat Demirci and I'm a software developer/engineer. I'm from Turkey,
 ![](https://img.shields.io/badge/Tools-Rancher-informational?style=flat&logo=rancher&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/muratdemirci/muratdemirci">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratdemirci&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/muratdemirci/muratdemirci">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muratdemirci&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a> 
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
