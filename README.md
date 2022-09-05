@@ -20,6 +20,12 @@ My name is Murat Demirci and I'm a software developer/engineer. I'm from Turkey,
   <a href="https://dev.to/muratdemirci" title="Follow me on Dev.to 📀">
     <img src="https://img.shields.io/badge/murat%20demirci-6633cc?style=flat-square&logo=Dev.to&logoColor=white" />
   </a>
+    <a href="https://leetcode.com/muratdemirci/" title="Follow me on LeetCode 📀">
+    <img src="https://img.shields.io/badge/murat%20demirci-6633cc?style=flat-square&logo=Leetcode&logoColor=white" />
+  </a>
+      <a href="https://www.hackerrank.com/deusmur" title="Follow me on Hacker Rank 📀">
+    <img src="https://img.shields.io/badge/murat%20demirci-6633cc?style=flat-square&logo=Hackerrank&logoColor=white" />
+  </a>
 </p>
 
 ## 🔧 Technologies & Tools
