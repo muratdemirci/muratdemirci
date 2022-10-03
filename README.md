@@ -47,6 +47,7 @@ My name is Murat Demirci and I'm a software developer/engineer. I'm from Turkey,
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-ScyllaDB-informational?style=flat&logo=sylladb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Cassandra-informational?style=flat&logo=apache-cassandra&logoColor=white&color=2bbc8a)
 
 <!-- links to social media icons -->
 
