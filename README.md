@@ -50,7 +50,7 @@ My name is Murat Demirci and I'm a software developer/engineer. I'm from Turkey,
 ![](https://img.shields.io/badge/-Cassandra-informational?style=flat&logo=apache-cassandra&logoColor=white&color=2bbc8a)
 
 ## 📊 Stats
-![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=muratdemirci&theme=transparent&show_icons=true&layout=compact)
+![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=muratdemirci&theme=transparent&show_icons=true)
 [![Murat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratdemirci&theme=transparent&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- links to social media icons -->
