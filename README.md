@@ -2,32 +2,6 @@
 
 My name is Murat Demirci and I'm a software developer/engineer. I'm from Turkey, living in Istanbul. Always chasing the ghosts and reinventing the wheel ⚙️
 
-## 🧙 Sorry Dorothy but we're not in Kansas anymore.
-
-<p align="middle">
-  <a href="https://www.linkedin.com/in/recursiveself" title="Follow me on LinkedIn 👔">
-    <img src="https://img.shields.io/badge/-Murat%20Demirci-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/recursiveself" />
-  </a>
-  <a href="https://twitter.com/deusmur" title="Follow me on Twitter 🐦">
-    <img src="https://img.shields.io/badge/deusmur-6633cc?style=flat-square&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/deusmur" title="Follow me on Instagram 📸">
-    <img src="https://img.shields.io/badge/deusmur-6633cc?style=flat-square&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@deusmur" title="Follow me on Medium 📝">
-    <img src="https://img.shields.io/badge/deusmur-6633cc?style=flat-square&logo=Medium&logoColor=white" />
-  </a>
-  <a href="https://dev.to/muratdemirci" title="Follow me on Dev.to 📀">
-    <img src="https://img.shields.io/badge/murat%20demirci-6633cc?style=flat-square&logo=Dev.to&logoColor=white" />
-  </a>
-    <a href="https://leetcode.com/muratdemirci/" title="Follow me on LeetCode 📀">
-    <img src="https://img.shields.io/badge/murat%20demirci-6633cc?style=flat-square&logo=Leetcode&logoColor=white" />
-  </a>
-      <a href="https://www.hackerrank.com/deusmur" title="Follow me on Hacker Rank 📀">
-    <img src="https://img.shields.io/badge/murat%20demirci-6633cc?style=flat-square&logo=Hackerrank&logoColor=white" />
-  </a>
-</p>
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-VSC-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
