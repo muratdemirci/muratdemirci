@@ -1,1 +1,1 @@
-My kung fu is stronger than yours.
+I make computer programs
